@@ -9,6 +9,9 @@ http://blog.angulardart.org/
 Official forum
 https://groups.google.com/forum/#!forum/angular-dart
 
+API Refrence
+https://api.dartlang.org/docs/channels/stable/latest/
+
 # Tutorials & Intros
 
 Getting started by Chris Strom
@@ -38,6 +41,9 @@ http://www.youtube.com/watch?v=RqKUTGB-CxA
 
 Examples by Shailen Tuli
 https://github.com/dart-lang/dart_by_example/#angular-dart
+
+1 hour Codelab by the Dartlangfr guys
+https://github.com/dartlangfr/ng-darrrt-codelab
 
 # Background Information
 
