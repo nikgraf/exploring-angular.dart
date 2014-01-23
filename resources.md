@@ -45,6 +45,11 @@ https://github.com/dart-lang/dart_by_example/#angular-dart
 1 hour Codelab by the Dartlangfr guys
 https://github.com/dartlangfr/ng-darrrt-codelab
 
+# Packages 
+
+Port of Angular-UI to Dart
+https://github.com/akserg/angular.dart.ui
+
 # Background Information
 
 James deBoer on the differences between Angular and Angular.dart
