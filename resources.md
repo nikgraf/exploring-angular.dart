@@ -45,6 +45,9 @@ https://github.com/dart-lang/dart_by_example/#angular-dart
 1 hour Codelab by the Dartlangfr guys
 https://github.com/dartlangfr/ng-darrrt-codelab
 
+AngularDart Phone Catalog Tutorial Application
+https://github.com/technohippy/angular-dart-phonecat
+
 # Packages 
 
 Port of Angular-UI to Dart
