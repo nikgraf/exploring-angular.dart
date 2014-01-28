@@ -50,6 +50,9 @@ https://github.com/dartlangfr/ng-darrrt-codelab
 Port of Angular-UI to Dart
 https://github.com/akserg/angular.dart.ui
 
+Data binding between Angular and Dart
+http://pub.dartlang.org/packages/angular_node_bind
+
 # Background Information
 
 James deBoer on the differences between Angular and Angular.dart
