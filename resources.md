@@ -9,7 +9,7 @@ http://blog.angulardart.org/
 Official forum
 https://groups.google.com/forum/#!forum/angular-dart
 
-API Refrence
+API Reference
 https://api.dartlang.org/docs/channels/stable/latest/
 
 # Tutorials & Intros
