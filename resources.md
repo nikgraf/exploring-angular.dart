@@ -1,7 +1,7 @@
 # Official
 
 Angular.dart Tutorial
-https://github.com/angular/angular.dart.tutorial
+https://github.com/angular/angular.dart.tutorial/wiki
 
 Official Blog
 http://blog.angulardart.org/
