@@ -23,6 +23,9 @@ http://victorsavkin.com/post/72452331552/angulardart-for-angularjs-developers-in
 Using Mirrorsused in Angulardart Applications
 http://victorsavkin.com/post/73408216194/using-mirrorsused-in-angulardart-applications
 
+Angular.dart Badge Codelab
+https://github.com/dartlangfr/ng-darrrt-codelab/
+
 # Videos
 
 Episode 19: Building an App with AngularDart
