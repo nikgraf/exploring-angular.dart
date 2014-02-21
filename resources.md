@@ -1,16 +1,16 @@
 # Official
 
-Angular.dart Tutorial
-https://github.com/angular/angular.dart.tutorial/wiki
+AngularDart tutorial
+https://angulardart.org/tutorial/
 
-Official Blog
+Official blog
 http://blog.angulardart.org/
 
 Official forum
 https://groups.google.com/forum/#!forum/angular-dart
 
-API Reference
-https://api.dartlang.org/docs/channels/stable/latest/
+Dart API reference
+https://api.dartlang.org/
 
 # Tutorials & Intros
 
@@ -23,8 +23,9 @@ http://victorsavkin.com/post/72452331552/angulardart-for-angularjs-developers-in
 Using Mirrorsused in Angulardart Applications
 http://victorsavkin.com/post/73408216194/using-mirrorsused-in-angulardart-applications
 
-Angular.dart Badge Codelab
-https://github.com/dartlangfr/ng-darrrt-codelab/
+Code Lab: AngularDart
+https://github.com/shailen/ng-darrrt-codelab
+(forked from https://github.com/dartlangfr/ng-darrrt-codelab)
 
 # Videos
 
@@ -45,8 +46,12 @@ http://www.youtube.com/watch?v=RqKUTGB-CxA
 Examples by Shailen Tuli
 https://github.com/dart-lang/dart_by_example/#angular-dart
 
-1 hour Codelab by the Dartlangfr guys
-https://github.com/dartlangfr/ng-darrrt-codelab
+Example code for the Dartlangfr code lab
+https://github.com/shailen/ng-darrrt-codelab
+(forked from https://github.com/dartlangfr/ng-darrrt-codelab)
+
+Example code for the AngularDart tutorial
+https://github.com/angular/angular.dart.tutorial
 
 AngularDart Phone Catalog Tutorial Application
 https://github.com/technohippy/angular-dart-phonecat
@@ -61,5 +66,5 @@ http://pub.dartlang.org/packages/angular_node_bind
 
 # Background Information
 
-James deBoer on the differences between Angular and Angular.dart
+James deBoer on the differences between Angular and AngularDart
 http://stackoverflow.com/a/20504929/837709
