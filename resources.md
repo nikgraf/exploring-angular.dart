@@ -68,3 +68,8 @@ http://pub.dartlang.org/packages/angular_node_bind
 
 James deBoer on the differences between Angular and AngularDart
 http://stackoverflow.com/a/20504929/837709
+
+# Other
+
+Angular Dart Check List by Damon Douglas
+https://gist.github.com/damondouglas/9177537
