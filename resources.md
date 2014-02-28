@@ -24,7 +24,7 @@ Using Mirrorsused in Angulardart Applications
 http://victorsavkin.com/post/73408216194/using-mirrorsused-in-angulardart-applications
 
 Code Lab: AngularDart
-https://github.com/shailen/ng-darrrt-codelab
+https://github.com/angular/ng-darrrt-codelab
 (forked from https://github.com/dartlangfr/ng-darrrt-codelab)
 
 # Videos
@@ -47,7 +47,7 @@ Examples by Shailen Tuli
 https://github.com/dart-lang/dart_by_example/#angular-dart
 
 Example code for the Dartlangfr code lab
-https://github.com/shailen/ng-darrrt-codelab
+https://github.com/angular/ng-darrrt-codelab
 (forked from https://github.com/dartlangfr/ng-darrrt-codelab)
 
 Example code for the AngularDart tutorial
